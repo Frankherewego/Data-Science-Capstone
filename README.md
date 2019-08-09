@@ -1,4 +1,4 @@
-# Data-Science-Capstone Project
+# Property Price Analysis - Brisbane Sourthern Surburbs 2019
 The analysis focused on Brisbane House Market and aiming to identify the investment opportunities for Southern Brisbane Suburbs.
 
 Methodology
